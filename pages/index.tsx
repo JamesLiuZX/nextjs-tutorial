@@ -10,7 +10,8 @@ const Home: NextPage = () => {
         <link rel="icon" href="/favicon.ico" />
       </Head>
       <h1> This is Medium 2.0 </h1>
-
+      <h1>I will be using this as a tutorial to learn Next.js </h1> 
+      <p> Test </p>
     </div>
   )
 }
